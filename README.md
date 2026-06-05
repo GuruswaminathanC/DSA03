@@ -1,0 +1,1 @@
+The repository contains the case studies completed during the data science and AI for managers, executive certification. In addition to that this also has other programs which were developed outside the certification.
